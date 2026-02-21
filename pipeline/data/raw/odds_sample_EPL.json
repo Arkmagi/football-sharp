@@ -1,0 +1,776 @@
+[
+  {
+    "id": "5b648e6c89d56257cb38abb4a76cee72",
+    "commence_time": "2026-02-18T20:00:00Z",
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Arsenal",
+    "bookmakers": [
+      {
+        "key": "pinnacle",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "pmu_fr",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "skybet",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "paddypower",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "boylesports",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "betfair_ex_eu",
+        "markets": [
+          "h2h",
+          "h2h_lay"
+        ]
+      },
+      {
+        "key": "betfair_ex_uk",
+        "markets": [
+          "h2h",
+          "h2h_lay"
+        ]
+      },
+      {
+        "key": "unibet_uk",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "parionssport_fr",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "betclic_fr",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "smarkets",
+        "markets": [
+          "h2h",
+          "h2h_lay"
+        ]
+      },
+      {
+        "key": "sport888",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "winamax_fr",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "winamax_de",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "codere_it",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "williamhill",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "onexbet",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "unibet_fr",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "betway",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "tipico_de",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "marathonbet",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "unibet_nl",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "casumo",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "virginbet",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "livescorebet",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "grosvenor",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "leovegas_se",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "leovegas",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "unibet_se",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "betvictor",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "betfair_sb_uk",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "ladbrokes_uk",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "coral",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "matchbook",
+        "markets": [
+          "h2h",
+          "h2h_lay"
+        ]
+      },
+      {
+        "key": "nordicbet",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "betsson",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "gtbets",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "coolbet",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "everygame",
+        "markets": [
+          "h2h"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "121455e2f00d446f83bf2939263ff388",
+    "commence_time": "2026-02-21T15:00:00Z",
+    "home_team": "Aston Villa",
+    "away_team": "Leeds United",
+    "bookmakers": [
+      {
+        "key": "unibet_uk",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "winamax_de",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "parionssport_fr",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "pmu_fr",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "onexbet",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "unibet_fr",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "codere_it",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "skybet",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "winamax_fr",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "paddypower",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "tipico_de",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "betclic_fr",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "sport888",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "williamhill",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "betfair_ex_eu",
+        "markets": [
+          "h2h",
+          "h2h_lay"
+        ]
+      },
+      {
+        "key": "betfair_ex_uk",
+        "markets": [
+          "h2h",
+          "h2h_lay"
+        ]
+      },
+      {
+        "key": "betvictor",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "ladbrokes_uk",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "coral",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "boylesports",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "marathonbet",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "betway",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "smarkets",
+        "markets": [
+          "h2h",
+          "h2h_lay"
+        ]
+      },
+      {
+        "key": "pinnacle",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "casumo",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "unibet_nl",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "grosvenor",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "livescorebet",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "virginbet",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "unibet_se",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "leovegas_se",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "leovegas",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "betfair_sb_uk",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "betsson",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "nordicbet",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "coolbet",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "everygame",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "matchbook",
+        "markets": [
+          "h2h",
+          "h2h_lay"
+        ]
+      },
+      {
+        "key": "gtbets",
+        "markets": [
+          "h2h"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f38e853e6d4accab249a51501f2806ef",
+    "commence_time": "2026-02-21T15:00:00Z",
+    "home_team": "Brentford",
+    "away_team": "Brighton and Hove Albion",
+    "bookmakers": [
+      {
+        "key": "winamax_de",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "winamax_fr",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "onexbet",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "parionssport_fr",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "pmu_fr",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "codere_it",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "unibet_fr",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "unibet_uk",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "tipico_de",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "paddypower",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "betclic_fr",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "skybet",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "sport888",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "williamhill",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "ladbrokes_uk",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "coral",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "betfair_ex_eu",
+        "markets": [
+          "h2h",
+          "h2h_lay"
+        ]
+      },
+      {
+        "key": "betfair_ex_uk",
+        "markets": [
+          "h2h",
+          "h2h_lay"
+        ]
+      },
+      {
+        "key": "betvictor",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "marathonbet",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "boylesports",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "betway",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "smarkets",
+        "markets": [
+          "h2h",
+          "h2h_lay"
+        ]
+      },
+      {
+        "key": "pinnacle",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "casumo",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "grosvenor",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "virginbet",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "livescorebet",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "unibet_nl",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "leovegas_se",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "unibet_se",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "leovegas",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "betfair_sb_uk",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "betsson",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "nordicbet",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "coolbet",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "everygame",
+        "markets": [
+          "h2h"
+        ]
+      },
+      {
+        "key": "matchbook",
+        "markets": [
+          "h2h",
+          "h2h_lay"
+        ]
+      },
+      {
+        "key": "gtbets",
+        "markets": [
+          "h2h"
+        ]
+      }
+    ]
+  }
+]

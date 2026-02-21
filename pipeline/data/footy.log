@@ -1,0 +1,56 @@
+[2026-02-18 18:56:18,462] ERROR footy - no such table: fixtures
+Traceback (most recent call last):
+  File "/home/rwh/Dropbox/Prosjekter/Dataprosjekter/Python/Footy/pipeline/run_daily.py", line 72, in main
+    f_count = fetch_fixtures_fd(args.leagues, date_from, date_to, token=FOOTBALLDATA_KEY, season_label="2025/2026")
+  File "/home/rwh/Dropbox/Prosjekter/Dataprosjekter/Python/Footy/scraping/fixtures_footballdata.py", line 65, in fetch_fixtures_fd
+    conn.executemany(
+    ~~~~~~~~~~~~~~~~^
+        """
+        ^^^
+    ...<4 lines>...
+        rows,
+        ^^^^^
+    )
+    ^
+sqlite3.OperationalError: no such table: fixtures
+[2026-02-18 18:56:18,878] INFO footy - [odds] sample EPL: Wolverhampton Wanderers vs Arsenal @ 2026-02-18T20:00:00Z
+[2026-02-18 18:56:18,879] INFO footy - [odds] sample EPL: Aston Villa vs Leeds United @ 2026-02-21T15:00:00Z
+[2026-02-18 18:56:18,879] INFO footy - [odds] sample EPL: Brentford vs Brighton and Hove Albion @ 2026-02-21T15:00:00Z
+[2026-02-18 18:56:18,879] ERROR footy - no such table: fixtures
+Traceback (most recent call last):
+  File "/home/rwh/Dropbox/Prosjekter/Dataprosjekter/Python/Footy/pipeline/run_daily.py", line 85, in main
+    o_count = fetch_odds(args.leagues)
+  File "/home/rwh/Dropbox/Prosjekter/Dataprosjekter/Python/Footy/scraping/odds_theoddsapi.py", line 100, in fetch_odds
+    fixture_id = match_fixture_by_names(
+        conn=conn,
+    ...<4 lines>...
+        tolerance_minutes=20,
+    )
+  File "/home/rwh/Dropbox/Prosjekter/Dataprosjekter/Python/Footy/pipeline/normalize.py", line 232, in match_fixture_by_names
+    cands = find_fixtures_in_window(conn, league, utc_kickoff, tolerance_minutes)
+  File "/home/rwh/Dropbox/Prosjekter/Dataprosjekter/Python/Footy/pipeline/normalize.py", line 195, in find_fixtures_in_window
+    rows = conn.execute(
+           ~~~~~~~~~~~~^
+        """
+        ^^^
+    ...<6 lines>...
+        (league, lo.isoformat().replace("+00:00", "Z"), hi.isoformat().replace("+00:00", "Z")),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ).fetchall()
+    ^
+sqlite3.OperationalError: no such table: fixtures
+[2026-02-18 18:56:18,881] ERROR footy - no such table: fixtures
+Traceback (most recent call last):
+  File "/home/rwh/Dropbox/Prosjekter/Dataprosjekter/Python/Footy/pipeline/run_daily.py", line 92, in main
+    p_count = compute_probs_for_upcoming()
+  File "/home/rwh/Dropbox/Prosjekter/Dataprosjekter/Python/Footy/pipeline/run_daily.py", line 20, in compute_probs_for_upcoming
+    rows = conn.execute(
+           ~~~~~~~~~~~~^
+        """
+        ^^^
+    ...<6 lines>...
+        """
+        ^^^
+    ).fetchall()
+    ^
+sqlite3.OperationalError: no such table: fixtures
