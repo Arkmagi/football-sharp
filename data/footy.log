@@ -944,3 +944,40 @@ requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetErro
 [2026-02-22 20:33:19,642] INFO footy - Odds hentet: 75
 [2026-02-22 20:33:19,649] INFO footy - Skrevet sannsynligheter for 12 fixtures.
 [2026-02-22 20:33:19,649] INFO footy - Probs beregnet: 12
+[2026-02-23 19:24:01,233] INFO footy - DB-skjema initialisert.
+[2026-02-23 19:24:20,917] INFO footy - [football-data] Fixtures: lagret 11 rader for LaLiga (2026-02-23 -> 2026-03-04).
+[2026-02-23 19:24:20,918] INFO footy - Fixtures hentet (football-data): 11
+[2026-02-23 19:24:21,348] INFO footy - [odds] sample LaLiga: Alavés vs Girona @ 2026-02-23T20:00:00Z
+[2026-02-23 19:24:21,348] INFO footy - [odds] sample LaLiga: Levante vs Alavés @ 2026-02-27T20:00:00Z
+[2026-02-23 19:24:21,348] INFO footy - [odds] sample LaLiga: Rayo Vallecano vs Athletic Bilbao @ 2026-02-28T13:00:00Z
+[2026-02-23 19:24:21,355] INFO footy - [odds] Uten match: Rayo Vallecano vs Oviedo @ 2026-03-04T18:00:00Z (LaLiga)
+[2026-02-23 19:24:21,355] INFO footy - [odds] Uten match: CA Osasuna vs Mallorca @ 2026-03-06T20:00:00Z (LaLiga)
+[2026-02-23 19:24:21,356] INFO footy - [odds] Uten match: Getafe vs Real Betis @ 2026-03-07T13:00:00Z (LaLiga)
+[2026-02-23 19:24:21,356] INFO footy - [odds] Uten match: Levante vs Girona @ 2026-03-07T15:15:00Z (LaLiga)
+[2026-02-23 19:24:21,356] INFO footy - [odds] Uten match: Atlético Madrid vs Real Sociedad @ 2026-03-07T17:30:00Z (LaLiga)
+[2026-02-23 19:24:21,356] INFO footy - [odds] Uten match: Celta Vigo vs Real Madrid @ 2026-03-07T20:00:00Z (LaLiga)
+[2026-02-23 19:24:21,357] INFO footy - [odds] Uten match: Villarreal vs Elche CF @ 2026-03-08T13:00:00Z (LaLiga)
+[2026-02-23 19:24:21,357] INFO footy - [odds] Uten match: Athletic Bilbao vs Barcelona @ 2026-03-08T15:15:00Z (LaLiga)
+[2026-02-23 19:24:21,357] INFO footy - [odds] Uten match: Sevilla vs Rayo Vallecano @ 2026-03-08T17:30:00Z (LaLiga)
+[2026-02-23 19:24:21,358] INFO footy - [odds] Uten match: Valencia vs Alavés @ 2026-03-08T20:00:00Z (LaLiga)
+[2026-02-23 19:24:21,358] INFO footy - [odds] Uten match: Espanyol vs Oviedo @ 2026-03-09T20:00:00Z (LaLiga)
+[2026-02-23 19:24:21,364] INFO footy - [odds] Lagret 66 odds-rader for LaLiga.
+[2026-02-23 19:24:21,365] INFO footy - Odds hentet: 66
+[2026-02-23 19:24:21,366] INFO footy - Ingen nye fixtures å beregne sannsynligheter for.
+[2026-02-23 19:24:21,366] INFO footy - Probs beregnet: 0
+[2026-02-23 19:24:40,869] INFO footy - DB-skjema initialisert.
+[2026-02-23 19:24:52,519] INFO footy - [football-data] Fixtures: lagret 15 rader for EPL (2026-02-23 -> 2026-03-04).
+[2026-02-23 19:24:52,520] INFO footy - Fixtures hentet (football-data): 15
+[2026-02-23 19:24:52,990] INFO footy - [odds] sample EPL: Everton vs Manchester United @ 2026-02-23T20:00:00Z
+[2026-02-23 19:24:52,990] INFO footy - [odds] sample EPL: Wolverhampton Wanderers vs Aston Villa @ 2026-02-27T20:00:00Z
+[2026-02-23 19:24:52,991] INFO footy - [odds] sample EPL: Bournemouth vs Sunderland @ 2026-02-28T12:30:00Z
+[2026-02-23 19:24:53,000] INFO footy - [odds] Uten match: Brighton and Hove Albion vs Arsenal @ 2026-03-04T19:30:00Z (EPL)
+[2026-02-23 19:24:53,000] INFO footy - [odds] Uten match: Aston Villa vs Chelsea @ 2026-03-04T19:30:00Z (EPL)
+[2026-02-23 19:24:53,000] INFO footy - [odds] Uten match: Fulham vs West Ham United @ 2026-03-04T19:30:00Z (EPL)
+[2026-02-23 19:24:53,000] INFO footy - [odds] Uten match: Manchester City vs Nottingham Forest @ 2026-03-04T19:30:00Z (EPL)
+[2026-02-23 19:24:53,001] INFO footy - [odds] Uten match: Newcastle United vs Manchester United @ 2026-03-04T20:15:00Z (EPL)
+[2026-02-23 19:24:53,001] INFO footy - [odds] Uten match: Tottenham Hotspur vs Crystal Palace @ 2026-03-05T20:00:00Z (EPL)
+[2026-02-23 19:24:53,007] INFO footy - [odds] Lagret 90 odds-rader for EPL.
+[2026-02-23 19:24:53,008] INFO footy - Odds hentet: 90
+[2026-02-23 19:24:53,015] INFO footy - Skrevet sannsynligheter for 4 fixtures.
+[2026-02-23 19:24:53,015] INFO footy - Probs beregnet: 4
