@@ -1,5 +1,8 @@
 # Footy Pipeline (skjelett)
 
+** This doesn't workyet :)
+
+
 Et minimalt prosjektoppsett for henting (scraping/API), beregning og presentasjon av fotballdata.
 
 ## Innhold
